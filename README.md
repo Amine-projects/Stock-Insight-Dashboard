@@ -15,22 +15,6 @@ A powerful, modular dashboard application for analyzing stock market data using 
 
 ---
 
-## Project Structure
-
-stock-insight-dashboard/
-├── app/
-│ ├── core/ # Configuration and security logic
-│ ├── models/ # Pydantic schemas and response models
-│ ├── utils/ # Technical indicators, API clients, plot utilities
-│ ├── tests/ # Unit and integration tests
-│ └── main.py # FastAPI application entry point
-├── .env # Environment configuration file
-├── .gitignore # Git ignore rules
-├── requirements.txt # Project dependencies
-├── requirements-dev.txt # Dev tools for linting and testing
-└── README.md # Project documentation
-
-
 ## 📦 Installation
 
 ### Prerequisites
