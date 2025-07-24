@@ -1,0 +1,9 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+python-dotenv==1.0.0
+yfinance==0.2.18
+requests==2.31.0
+pandas==2.0.3
+textblob==0.17.1
+fastapi-limiter==0.1.5
+redis==4.5.5
