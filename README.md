@@ -20,7 +20,7 @@ A powerful, modular dashboard application for analyzing stock market data using 
 ### Prerequisites
 
 - Python 3.10+
-- `pip` (or `poetry`, optionally)
+- `pip` 
 
 ### 1. Clone the repository
 
